@@ -1,2 +1,2 @@
 # courseWork
-3 term
+Sudoku Game
